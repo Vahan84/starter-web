@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vahan Sargsyan vahan.sargsyan@gmail.com
 
 # THANKS
 
